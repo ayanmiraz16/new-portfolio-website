@@ -246,6 +246,15 @@ footer input[type="text"], footer input[type="email"], footer textarea{
         padding: 20px;
 
     }
+    
+    .resume-column-title{
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    .resume-column{
+        padding: 20px;
+    }
 
     .footer-column, .about{
         /* width: 100%; */
